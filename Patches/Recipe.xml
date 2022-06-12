@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Brewery"]/recipes</xpath> <!-- this identifies which node you will be changing -->
+        <value> <!-- anything inside the value node will be added to the Def -->
+            <li>Make_WortBulk</li>
+        </value>
+    </Operation>
+
+</Patch>

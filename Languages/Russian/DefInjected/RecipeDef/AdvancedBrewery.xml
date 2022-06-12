@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- RU: make wort -->
+  <Make_WortEfficiently.label>сварить сусло</Make_WortEfficiently.label>
+  <!-- RU: Make wort from hops. -->
+  <Make_WortEfficiently.description>Сварить сусло из хмеля на высокотехнологичной пивоварне.</Make_WortEfficiently.description>
+  <!-- RU: Making wort. -->
+  <Make_WortEfficiently.jobString>Варит сусло</Make_WortEfficiently.jobString>
+
+  <!-- RU: make wort -->
+  <Make_WortBulkEfficiently.label>сварить сусло x25</Make_WortBulkEfficiently.label>
+  <!-- RU: Make wort from hops. -->
+  <Make_WortBulkEfficiently.description>Сварить сусло из хмеля на высокотехнологичной пивоварне.</Make_WortBulkEfficiently.description>
+  <!-- RU: Making wort. -->
+  <Make_WortBulkEfficiently.jobString>Варит сусло</Make_WortBulkEfficiently.jobString>
+  
+</LanguageData>
