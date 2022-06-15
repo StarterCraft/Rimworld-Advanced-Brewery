@@ -1,6 +1,8 @@
 # Rimworld Advanced Brewery
 Useful additions to the brewing technologies in RimWorld: new breweries for more advanced technological eras, and more!
 
+*Tested on RimWorld versions*: `1.3.3326 rev546`
+
 *Current version:* `2.0`
 
 *Latest update:* `15 June 2022`
