@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- RU: HiTechBrewery -->
+  <HiTechBrewery.label>выскотехнологичная пивоварня</HiTechBrewery.label>
+  <!-- RU: A work station with all the equipmRUt needed to mix wort for beer production. Wort must be fermRUted to finally become beer. -->
+  <HiTechBrewery.description>Рабочее место со всем оборудованием, необходимым для смешивания сусла для производства пива. Сусло должно быть сброжено, чтобы стать готовым пивом. В высокотехнологичной пивоварне продвинутый электронный контроллер управляет завариванием и смешиванием, а различные датчики обеспечивают четкий контроль над процессом. Все эти усовершенствования помогают невообразимо повысить эффективность производства сусла и облегчить работу пивовара.</HiTechBrewery.description>
+
+</LanguageData>

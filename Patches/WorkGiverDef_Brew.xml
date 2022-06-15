@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/WorkGiverDef[defName="DoBillsBrew"]/fixedBillGiverDefs</xpath> <!-- this identifies which node you will be changing -->
+        <value> <!-- anything inside the value node will be added to the Def -->
+            <li>ElectricBrewery</li>
+            <li>HiTechBrewery</li>
+        </value>
+    </Operation>
+
+</Patch>

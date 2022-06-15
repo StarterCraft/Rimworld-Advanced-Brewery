@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <RecipeDef>
+        <defName>Make_Wort_HiTechBrewery</defName>
+        <label>make wort</label>
+        <description>Make wort from hops using hi-tech brewery equipment.</description>
+        <jobString>Making wort.</jobString>
+        <workSpeedStat>DrugCookingSpeed</workSpeedStat>
+        <workSkill>Cooking</workSkill>
+        <effectWorking>Cook</effectWorking>
+        <soundWorking>Recipe_Brewing</soundWorking>
+        <allowMixingIngredients>true</allowMixingIngredients>
+        <workAmount>720</workAmount>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <ingredients>
+            <li>
+                <filter>
+                    <thingDefs>
+                        <li>RawHops</li>
+                    </thingDefs>
+                </filter>
+                <count>15</count>
+            </li>
+        </ingredients>
+        <fixedIngredientFilter>
+            <thingDefs>
+                <li>RawHops</li>
+            </thingDefs>
+        </fixedIngredientFilter>
+        <products>
+            <Wort>5</Wort>
+        </products>
+    </RecipeDef>
+    <RecipeDef>
+        <defName>Make_WortBulk_HiTechBrewery</defName>
+        <label>make wort x25</label>
+        <description>Make wort from hops using hi-tech brewery equipment.</description>
+        <jobString>Making wort.</jobString>
+        <workSpeedStat>DrugCookingSpeed</workSpeedStat>
+        <workSkill>Cooking</workSkill>
+        <effectWorking>Cook</effectWorking>
+        <soundWorking>Recipe_Brewing</soundWorking>
+        <allowMixingIngredients>true</allowMixingIngredients>
+        <workAmount>1680</workAmount>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <ingredients>
+            <li>
+                <filter>
+                    <thingDefs>
+                        <li>RawHops</li>
+                    </thingDefs>
+                </filter>
+                <count>75</count>
+            </li>
+        </ingredients>
+        <fixedIngredientFilter>
+            <thingDefs>
+                <li>RawHops</li>
+            </thingDefs>
+        </fixedIngredientFilter>
+        <products>
+            <Wort>25</Wort>
+        </products>
+    </RecipeDef>
+</Defs>

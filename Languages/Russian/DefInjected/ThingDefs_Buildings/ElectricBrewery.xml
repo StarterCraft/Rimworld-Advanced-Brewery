@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- RU: ElectricBrewery -->
+    <ElectricBrewery.label>электропивоварня</ElectricBrewery.label>
+    <!-- RU: A work station with all the equipmRUt needed to mix wort for beer production. Wort must be fermRUted to finally become beer. -->
+    <ElectricBrewery.description>Рабочее место со всем оборудованием, необходимым для смешивания сусла, необходимого для производства пива. Сусло должно быть сброжено, чтобы стать готовым пивом. Достижения эпохи электричества дают свои плоды: электрические миксеры и различные другие улучшения позволяют серьезно повысить эффективность производства работ на электропивоварне.</ElectricBrewery.description>
+
+</LanguageData>

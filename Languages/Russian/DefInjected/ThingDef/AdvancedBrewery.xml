@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-<!-- RU: AdvancedBrewery -->
-  <AdvancedBrewery.label>выскотехнологичная пивоварня</AdvancedBrewery.label>
-  <!-- RU: A work station with all the equipmRUt needed to mix wort for beer production. Wort must be fermRUted to finally become beer. -->
-  <AdvancedBrewery.description>Рабочий стол, оснащённый всем необходимым для приготовления пивного сусла. Для получения пива сусло нужно подвергнуть брожению в специальных бочках. Эта пивоварня позволяет более эффективно производить сусло: простой электронный контроллер управляет электрическими миксерами, позволяя использовать немного меньше ингредиентов и облегчая работу повара.</AdvancedBrewery.description>
-
-</LanguageData>
