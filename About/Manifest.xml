@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>AdvancedBrewery</identifier>
+    <version>2.0</version>
+    <dependencies />
+    <incompatibleWith />
+    <loadBefore />
+    <loadAfter />
+    <manifestUri>https://raw.githubusercontent.com/StarterCraft/Rimworld-Advanced-Brewery/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/StarterCraft/Rimworld-Advanced-Brewery/releases</downloadUri>
+</Manifest>
