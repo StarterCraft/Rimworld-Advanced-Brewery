@@ -60,6 +60,6 @@ A work station with all the equipment needed to mix wort for beer production. Wo
 
 # Feel free to submit any issues or pull requests!
 
-[1]: http://
-[2]:
-[3]: 
+[1]: changelog.md
+[2]: Textures/Buildings_Production/ElectricBrewery_south.png
+[3]: Textures/Buildings_Production/HiTechBrewery_south.png
