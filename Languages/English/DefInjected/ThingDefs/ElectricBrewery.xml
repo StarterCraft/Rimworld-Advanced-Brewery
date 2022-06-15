@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: ElectricBrewery -->
+    <ElectricBrewery.label>electric brewery</ElectricBrewery.label>
+    <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+    <ElectricBrewery.description>A work station with all the equipment needed to mix wort necessary for beer production. Wort must be fermented to finally become beer.\n\nElectric mixers and various other features allow to seriously increase wort production efficiency on an electric brewery.</ElectricBrewery.description>
+
+</LanguageData>

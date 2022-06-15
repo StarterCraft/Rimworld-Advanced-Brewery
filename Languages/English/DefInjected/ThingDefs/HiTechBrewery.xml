@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- RU: HiTechBrewery -->
+  <HiTechBrewery.label>hi-tech brewery</HiTechBrewery.label>
+  <!-- RU: A work station with all the equipmRUt needed to mix wort for beer production. Wort must be fermRUted to finally become beer. -->
+  <HiTechBrewery.description>A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. In a hi-tech brewery, an advanced electronic controller manages brewing and mixing, and various sensors enable distinctive control over the brewing process. All these advancements help to unimaginably increase wort production efficiency and make the job easier for the chef.</HiTechBrewery.description>
+
+</LanguageData>
