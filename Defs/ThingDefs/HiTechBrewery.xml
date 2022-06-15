@@ -42,7 +42,7 @@
         <hasInteractionCell>True</hasInteractionCell>
         <interactionCellOffset>(0,0,-1)</interactionCellOffset>
         <surfaceType>Item</surfaceType>
-        <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+        <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
         <recipes>
             <li>Make_Wort_HiTechBrewery</li>
             <li>Make_WortBulk_HiTechBrewery</li>
@@ -60,7 +60,7 @@
             <li Class="CompProperties_Breakdownable"/>
             <li Class="CompProperties_HeatPusher">
                 <compClass>CompHeatPusherPowered</compClass>
-                <heatPerSecond>1.6</heatPerSecond>
+                <heatPerSecond>1.5</heatPerSecond>
             </li>
         </comps>
         <building>
