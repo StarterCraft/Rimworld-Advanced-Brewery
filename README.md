@@ -49,16 +49,16 @@ A work station with all the equipment needed to mix wort for beer production. Wo
 | Make wort     | Hops ×15    | 12          | Wort ×5  |
 | Make wort ×25 | Hops ×75    | 28          | Wort ×25 |
 
-### Auxiliary content
-## Other recipes
+## Auxiliary content
+### Other recipes
 | Bench   | Name          | Ingredients | Work amount | Products |
 |:--------|:--------------|:------------|:-----------:|---------:|
 | Brewery | Make wort ×25 | Hops ×125   | 45          | Wort ×25 |
 
-### Translations
+## Translations
 **Feel free to submit your own translations!**
-- English (International)
-- Russian (Russian Federation)
+- English (International): 100% complete
+- Russian (Russian Federation): 100% complete
 
 # Feel free to submit any issues or pull requests!
 
