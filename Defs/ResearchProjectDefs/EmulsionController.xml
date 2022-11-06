@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ResearchProjectDef>
+        <defName>EmulsionController</defName>
+        <label>Emulsion Controller</label>
+        <description>Hi-tech emulsion controllers in addition to sophisticated mixing and leveling equipment allow to maximize brewing efficiency.</description>
+        <baseCost>650</baseCost>
+        <prerequisites>
+            <li>MicroelectronicsBasics</li>
+            <li>Mixers</li>
+        </prerequisites>
+    </ResearchProjectDef>
+</Defs>

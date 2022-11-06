@@ -72,7 +72,7 @@
         </placeWorkers>
         <researchPrerequisites>
             <li>Brewing</li>
-            <li>Electricity</li>
+            <li>EmulsionController</li>
         </researchPrerequisites>
     </ThingDef>
 </Defs>

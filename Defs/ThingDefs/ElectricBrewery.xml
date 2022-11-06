@@ -71,7 +71,7 @@
         </placeWorkers>
         <researchPrerequisites>
             <li>Brewing</li>
-            <li>Electricity</li>
+            <li>Mixers</li>
         </researchPrerequisites>
     </ThingDef>
 </Defs>
